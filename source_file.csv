@@ -1,0 +1,4 @@
+Id;KeyValue;Priority;Status;Tags;Resource;Attempt;Loaded;Completed
+2e97970fvse67fdsf;WB-Client(16.12.22-31.12.22) Transport Etel;0;Completed;France_1411_SD_16.12.22-31.12.22;FR-RPAVDI-047;1;12.22.2022  05:14:15;14.01.2023 15:14
+a7avzv7q9r-09998;WB-Client(16.12.22-31.12.22) Groupe;0;Completed;France_1411_SD_16.12.22-31.12.22;FR-RPAVDI-047;1;15.12.2022 05:15;15.01.2023 14:15
+a232-gaeg4124-55;WB-Client(01.12.22-31.12.22) Transport Tagla;0;Completed;France_1411_SD_01.12.22-31.12.22;FR-RPAVDI-047;1;16.12.2022 05:15;16.01.2023 11:45
