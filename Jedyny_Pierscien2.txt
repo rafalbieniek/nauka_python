@@ -1,0 +1,8 @@
+Mechanika “The One Ring” (“Jedyny Pierścień”) jest dość specyficzna i bardzo różna od większości mechanik, którymi zwykle się zajmuję. W największym uproszczeniu test zdajemy wtedy, gdy suma wartości wyrzuconych na kościach jest większa lub równa poziomowi trudności. Jednakże sam rzut obwarowany jest sporą ilością dodatkowych warunków, które sprawiają, że silnik “The One Ring” nie przypomina żadnego innego “roll vs TN”, jakie spotkałem.
+A więc po kolei.
+W “The One Ring” pojawiają się dwa rodzaje kości: Kość Działania (K12) i Kość Sukcesu (K6).
+Na Kości Działania mamy cyfrowe wartości od 1 do 10 oraz Runę Gandalfa i Oko Saurona. Na Kostkach Sukcesu mamy wartości od 1 do 6, ale 6 jest dodatkowo oznaczona jako Znak Sukcesu.
+Wykonując standardowy test, rzucamy jedną Kością Działania oraz tyloma Kośćmi Sukcesu ile wynosi testowana umiejętność.
+W grze mamy trzy stałe Poziomy Trudności, związane z trzema cechami (Siła, Serce, Rozum) występującymi w grze. Wynoszą one 20 minus odpowiednia cecha.
+Testy mogą być Wzmocnione lub Osłabione. Podczas ich wykonywania rzucamy dwiema Kośćmi Działania i wybieramy odpowiednio lepszy lub gorszy wynik.
+Wyrzucenie Runy Gandalfa gwarantuje automatyczny sukces. Oko Saurona ma wartość 0 lub, jeżeli jesteśmy Przygnębieni (Miserable), test kończy się porażką.
